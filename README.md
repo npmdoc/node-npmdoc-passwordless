@@ -1,4 +1,7 @@
-# api documentation for  [passwordless (v1.1.2)](https://github.com/florianheinemann/passwordless)  [![npm package](https://img.shields.io/npm/v/npmdoc-passwordless.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-passwordless) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-passwordless.svg)](https://travis-ci.org/npmdoc/node-npmdoc-passwordless)
+# npmdoc-passwordless
+
+#### basic api documentation for  [passwordless (v1.1.2)](https://github.com/florianheinemann/passwordless)  [![npm package](https://img.shields.io/npm/v/npmdoc-passwordless.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-passwordless) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-passwordless.svg)](https://travis-ci.org/npmdoc/node-npmdoc-passwordless)
+
 #### A node.js/express module for passwordless authentication
 
 [![NPM](https://nodei.co/npm/passwordless.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/passwordless)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.1.2"
+    "version": "1.1.2",
+    "bin": {}
 }
 ```
 
